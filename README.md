@@ -1,20 +1,12 @@
-🍎 Apple iPhone Website Clone
-This is a fully responsive clone of the official Apple iPhone website, built using React, Vite, and Tailwind CSS. The goal of this project is to replicate the clean, modern, and high-performance design of Apple's product landing page, while practicing advanced frontend development techniques.
+# React + Vite
 
-🚀 Technologies Used
-React – For building modular and reusable UI components
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Vite – For blazing fast development and optimized builds
+Currently, two official plugins are available:
 
-Tailwind CSS – For rapid styling with utility-first CSS classes
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-💡 Features
-Pixel-perfect responsive layout
+## Expanding the ESLint configuration
 
-Hero sections with smooth scroll and animations
-
-Reusable and modular components
-
-Clean and minimalistic Apple-style design
-
-Optimized for performance and accessibility# Apple-clone-1
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
